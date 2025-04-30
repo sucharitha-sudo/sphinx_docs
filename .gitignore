@@ -8,3 +8,8 @@ build/
 venv/ 
 *.pyc 
 .DS_Store 
+_build/ 
+build/ 
+venv/ 
+*.pyc 
+.DS_Store 
